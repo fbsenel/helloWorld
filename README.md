@@ -1,4 +1,4 @@
-The main object in this project was to compare searching performances of ArrayList, LinkedList, BST and HashMap. 
+The main object in this project is to compare searching performances of ArrayList, LinkedList, BST and HashMap. 
 
 Declared arraySize to 1000 and increased 1000+ till 100,000.
 
